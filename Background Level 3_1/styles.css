@@ -1,0 +1,13 @@
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+section {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+section {
+  background-image: url(https://supercode.notion.site/image/https%3A%2F%2Fsupercode-images.s3.eu-central-1.amazonaws.com%2Fcss_einfuehrung%2Fbackground%2FCSS-Einfuehrung-Background-Level-3_1.png?table=block&id=97b8320b-65ba-4324-bdd1-ecece3d2e259&spaceId=adb1bb61-4066-40e1-ae63-984951b2fa6d&width=2000&userId=&cache=v2);
+}

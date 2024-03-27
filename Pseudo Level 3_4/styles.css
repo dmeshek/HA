@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box
+  margin 0;
+  padding: 0;
+  font-family: monospace;
+  font-size: large;
+}
+
+
+#eins img, #zwei img, #drei img {
+  width: 200px; /* Breite der Bilder */
+  height: 200px; /* Höhe der Bilder */
+  display: block; /* Bilder als Blockelemente behandeln */
+  margin-bottom: 120px; /* Abstand zwischen den Bildern */
+   margin-right: auto;
+
+}
+
+#eins img:hover {
+  border: 10px double palevioletred;
+}
+
+#zwei img:hover {
+  filter: grayscale(100%);
+}
+
+#drei img:hover {
+  border-radius: 50%;
+}

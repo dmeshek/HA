@@ -1,0 +1,42 @@
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+  ;
+}
+
+#eins{
+  background-color: rgb(242, 196, 47);
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
+
+#zwei{
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 10px;
+  background-image: url(https://img.freepik.com/fotos-premium/eine-gruene-wiese-mit-einem-berg-im-hintergrund_721263-72.jpg);
+}
+
+#drei{
+  background: rgb(255,207,0);
+  background: linear-gradient(90deg, rgba(255,207,0,1) 37%, rgba(2,0,36,1) 100%);
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  
+}
+
+.background{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+}

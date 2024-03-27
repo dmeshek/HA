@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+}
+h1:hover{
+  color: aquamarine;
+}
+
+body{
+  font-family: monospace;
+}
+
+#hehe{
+  background-color: aquamarine;
+}
+
+#hoho{
+  text-align: center;
+  color: purple;
+}
+
+li{
+  font-style: italic;
+}
+
+li:last-child{
+  font-style: normal;
+}
+
+button{
+  font-size: 1rem;
+}
+
+button:hover{
+  font-size: 1.3rem;
+}
+
+button:active{
+color: aquamarine;
+}
